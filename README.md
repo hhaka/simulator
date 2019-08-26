@@ -6,6 +6,8 @@ A simple Python GUI application, which has 4 movable cylinders and motors.
 
 You can control the cylinders and motors with a PLC program running on TwinCAT 3. The simulator and PLC program are communicating by using the Automation Device Specification (ADS) protocol.
 
+![Simulator UI](https://github.com/hhaka/simulator/blob/master/ui.png "Simulator UI")
+
 ## Dependencies
 
 The simulator uses [pyads](https://pypi.org/project/pyads/) and [PyQy5](https://pypi.org/project/PyQt5/) packages. You can install them with the pip:
